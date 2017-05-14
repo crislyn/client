@@ -35,7 +35,7 @@
                 <li><a href="tailoring.php">Tailoring</a></li>
           </ul>
         </li>
-        <li class="active"><a href="#"><i class="fa fa-circle-o"></i> <span>Transactions</span></a></li>
+        <li class="active"><a href="transactions.php"><i class="fa fa-circle-o"></i> <span>Transactions</span></a></li>
       </ul>
       <!-- /.sidebar-menu -->
     </section>
